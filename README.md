@@ -1,4 +1,4 @@
-Multi-Agent System for Research and Content Generation
+# Multi-Agent System for Research and Content Generation
 
 Overview
 
